@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36671f55-0c46-4463-aea1-82d1feea6f90" name="Changes" comment="" />
+    <list default="true" id="36671f55-0c46-4463-aea1-82d1feea6f90" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.rustlings-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/03_if/if3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/03_if/if3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types6.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/04_primitive_types/primitive_types6.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_vecs/vecs1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_vecs/vecs1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/05_vecs/vecs2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/05_vecs/vecs2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/quizzes/quiz1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/quizzes/quiz1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/03_if/if3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/03_if/if3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types6.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/04_primitive_types/primitive_types6.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/05_vecs/vecs1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/05_vecs/vecs1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/quizzes/quiz1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/quizzes/quiz1.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +35,7 @@
   <component name="CopilotChats">
     <option name="panelChat">
       <chat>
-        <option name="activeSessionId" value="09470a3b-eac5-40c8-bb72-2c4978e8eb58" />
+        <option name="activeSessionId" value="38e81873-a49d-4e95-af52-03eacf10de64" />
         <option name="sessions">
           <session>
             <option name="chatType" value="PANEL" />
@@ -21,11 +43,20 @@
             <option name="modeId" value="Agent" />
             <option name="modelType" value="builtin_family" />
             <option name="modelValue" value="auto" />
+            <option name="status" value="Processing" />
             <option name="targetType" value="LOCAL" />
           </session>
           <session>
             <option name="chatType" value="PANEL" />
             <option name="id" value="45551341-eab6-4576-9baa-09f561a67736" />
+            <option name="modeId" value="Agent" />
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+            <option name="targetType" value="LOCAL" />
+          </session>
+          <session>
+            <option name="chatType" value="PANEL" />
+            <option name="id" value="38e81873-a49d-4e95-af52-03eacf10de64" />
             <option name="modeId" value="Agent" />
             <option name="modelType" value="builtin_family" />
             <option name="modelValue" value="auto" />
@@ -40,6 +71,12 @@
     <persistenceIdMap>
       <entry key="_/Users/eddiechan/RustroverProjects/rustlings" value="3DNKPG53E8e6M252ikzWgJRgmOi" />
     </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,6 +104,20 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3DNKPG53E8e6M252ikzWgJRgmOi" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_family" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="LOCAL" />
+      </template>
+    </option>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -107,7 +158,7 @@
       <updated>1778117061708</updated>
       <workItem from="1778117062798" duration="8000" />
       <workItem from="1780761142793" duration="3118000" />
-      <workItem from="1780822138906" duration="728000" />
+      <workItem from="1780822138906" duration="6642000" />
     </task>
     <servers />
   </component>
