@@ -7,27 +7,27 @@
     <list default="true" id="36671f55-0c46-4463-aea1-82d1feea6f90" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.rustlings-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics4.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/06_move_semantics/move_semantics5.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/07_structs/structs1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/07_structs/structs1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/07_structs/structs2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/07_structs/structs2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/07_structs/structs3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/07_structs/structs3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/08_enums/enums1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/08_enums/enums1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/08_enums/enums2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/08_enums/enums2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/08_enums/enums3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/08_enums/enums3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics4.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/06_move_semantics/move_semantics5.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/07_structs/structs1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/07_structs/structs1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/07_structs/structs2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/07_structs/structs2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/07_structs/structs3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/07_structs/structs3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/08_enums/enums1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/08_enums/enums1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/08_enums/enums2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/08_enums/enums2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/09_strings/strings1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/09_strings/strings1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/09_strings/strings2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/09_strings/strings2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/09_strings/strings3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/09_strings/strings3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/09_strings/strings4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/09_strings/strings4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/10_modules/modules1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/10_modules/modules1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/10_modules/modules2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/10_modules/modules2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/10_modules/modules3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/10_modules/modules3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/quizzes/quiz2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/quizzes/quiz2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/09_strings/strings1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/09_strings/strings1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/09_strings/strings2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/09_strings/strings2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/09_strings/strings3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/09_strings/strings3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/09_strings/strings4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/09_strings/strings4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/10_modules/modules1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/10_modules/modules1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/10_modules/modules2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/10_modules/modules2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/10_modules/modules3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/10_modules/modules3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps3.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +160,7 @@
       <updated>1778117061708</updated>
       <workItem from="1778117062798" duration="8000" />
       <workItem from="1780761142793" duration="3118000" />
-      <workItem from="1780822138906" duration="14512000" />
+      <workItem from="1780822138906" duration="21814000" />
     </task>
     <servers />
   </component>
